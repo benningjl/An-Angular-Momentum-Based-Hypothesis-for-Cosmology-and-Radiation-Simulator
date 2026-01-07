@@ -160,7 +160,7 @@ This framework is highly falsifiable with clear testable predictions. Contributi
 If you use this framework in your research, please cite:
 
 ```
-Benning, J.L. (2026). An Angular-Momentum-Based Hypothesis for Cosmology and Radiation:
+Benninghoff, J.L. (2026). An Angular-Momentum-Based Hypothesis for Cosmology and Radiation:
 A Non-Gravitational, Non-Propagating Interpretation of Light and Structure Formation.
 GitHub: https://github.com/benningjl/theoryfinalrepo
 ```
@@ -180,5 +180,5 @@ This framework represents a fundamental reconceptualization of physics, building
 ---
 
 **Last Updated**: January 6, 2026
-**Version**: 1.0
+**Version**: 2.0
 **Status**: Theoretical framework with computational validation, ready for experimental testing
