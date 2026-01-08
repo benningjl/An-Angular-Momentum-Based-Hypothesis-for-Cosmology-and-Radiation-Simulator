@@ -24670,7 +24670,7 @@ Supplementary Material
 
 S1. Numerical Simulation Code Repository
 
-[Upon acceptance, simulation code implementing the specifications in Section 8.4 will be made available at: https://github.com/[username]/angular-momentum-cosmology]
+Complete simulation code implementing all 27 validated predictions is available at: https://github.com/benningjl/An-Angular-Momentum-Based-Hypothesis-for-Cosmology-and-Radiation-Simulator
 
 S2. Extended Derivation Tables
 
